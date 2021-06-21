@@ -1,1 +1,1 @@
-# Paper-Toss
+# CP-2
